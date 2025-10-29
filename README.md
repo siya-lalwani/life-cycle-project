@@ -51,7 +51,4 @@ This project analyses a life‑cycle dataset to uncover insights about the diffe
 - Document code functions more thoroughly and modularize sections for reuse.
 
 ## 👤 Author  
-Siya Lalwani — Integrated MSc in Computer Science at Gujarat University  
-
-## 📄 License  
-Specify your license here (e.g., MIT, GPL) if you plan to open‑source.
+Siya Lalwani 
